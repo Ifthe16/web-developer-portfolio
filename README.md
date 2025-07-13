@@ -21,7 +21,7 @@ This is a modern, responsive portfolio website for a **Web Developer & Designer*
 
 ---
 
-## 🧑‍💻 Features
+## 💻 Features
 
 - Clean and modern UI/UX
 - Downloadable CV
