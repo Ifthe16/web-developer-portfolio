@@ -46,9 +46,6 @@ This is a modern, responsive portfolio website for a **Web Developer & Designer*
 
 👉 [Click here to visit the website](https://ifthe16.github.io/web-developer-portfolio/)
 
----
 
-## 🔖 Tags
-
-`#Portfolio` `#WebDesign` `#ResponsiveWebsite` `#WebDeveloper`
+**Tags:** `#Portfolio` `#WebDesign` `#ResponsiveWebsite` `#WebDeveloper`
 
