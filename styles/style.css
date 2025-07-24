@@ -202,22 +202,49 @@ footer textarea {
 }
 
 /* responsive media query */
-.hide {
-    display: none;
-}
-
 /* small devices */
 @media screen and (max-width:576px) {
 
     .skills-container,
     .resume-container,
     footer,
-    .about-items {
+    .about-items,
+    .banner,
+    nav,
+    nav>ul {
         flex-direction: column;
+    }
+
+    nav>ul {
+        gap: 20px;
+    }
+
+    .btn-primary {
+        margin-bottom: 20px;
+    }
+
+    .header {
+        background-image: none;
+    }
+
+    .banner {
+        margin: 20px;
+    }
+
+    .banner-content {
+        margin: 0 auto;
+    }
+
+    .banner-profile-pic {
+        width: 100%;
     }
 
     .about,
     footer {
+        padding: 20px;
+    }
+
+    .resume-container {
         padding: 20px;
     }
 
