@@ -30,6 +30,7 @@ This is a modern, responsive portfolio website for a **Web Developer & Designer*
 - Skills & Technologies section
 - Resume Summary (Education & Experience)
 - Contact form with social links
+- Responsive Website for all devices
 
 ---
 
